@@ -16,7 +16,7 @@
 
 ## Get started
 
-[![car.png](./img/car.png)](./download.md)
+[![car.png](./img/car.png)](./GetStarted.md)
 
 You can use this section that you can start to use Git very fast! If you are ready click on the car.
 ***
@@ -47,7 +47,7 @@ You can use this icon to use *git config*.
 
 ## Basic operations
 
-[![elementary.png](./img/elementary.png)](./elementary.png.md)
+[![elementary.png](./img/elementary.png)](./elementary.md)
 
 You can use this icon to study basic operations.
 
