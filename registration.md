@@ -16,7 +16,7 @@ To register on github.com:
 - Click the "Create account" button.
 - Log in to the mail, confirm the mailing address.
 
-*You can get more information in this video*
+*You can get more information in [this video](https://www.youtube.com/watch?v=w42nAFMKKFk)*
 
 <div align="right">
 
@@ -24,8 +24,3 @@ To register on github.com:
 
 </div>
 
-<div align="center">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w42nAFMKKFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
