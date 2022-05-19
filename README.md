@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
 
 ![bear.gif](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)
 
@@ -93,7 +93,7 @@ You can use this icon to get more information.
 
 <br>
 
-<div style="text-align:center;">
+<div align="center">
 
 ## ***You can do it! Good luck!***
 
